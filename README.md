@@ -13,6 +13,3 @@ It'd be awesome to do this again in the future and create layers in each window,
 
 # What's Monument?
 A creative housing and event space located in the SoMa neighborhood of San Francisco, CA. Learn more at http://www.monument.house/
-
-
-As I was looking for inspiration I was struck by the complex patterns that come from a single line; such as moire patterns and complex geometric line work. The experience of how a group is more than the sum of the individuals is part of the power of banding together. 
