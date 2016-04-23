@@ -11,7 +11,7 @@ It'd be awesome to do this again in the future and create layers in each window,
 # The Process
 
 ####Research
-I’m always pining inspiration for the house. As I was thinking about the windows, I knew that I wanted to do something with patterns, and I was really struck by moire patterns, as mentioned in the artist statement.
+I’m always [pining inspiration](https://www.pinterest.com/theinfonaut/monument/) for the house. As I was thinking about the windows, I knew that I wanted to do something with patterns, and I was really struck by moire patterns, as mentioned in the artist statement.
 
 ####Materials and measuring
 As a first run, I wanted this to be inexpensive. Painters plastic is an easy choice, as it’s big and cheap, and fairly hardy. Gaffers tape comes in 1/2 and 1/4 inch widths, which is small enough to do something intricate. I chose 1/2 inch because it would be a fine enough line weight, without double the number of lines needed to cover a surface.
